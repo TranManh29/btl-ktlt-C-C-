@@ -1,10 +1,10 @@
-ga_ran, 30000
-ga_nuong, 10000
-khoai_tay, 25000
+ga ran, 30000
+ga nuong, 10000
+khoai tay, 25000
 hamburger, 30000
-mi_y, 30000
+mi y, 30000
 kimbap, 25000
-xuc_xich, 10000
-coca_cala, 10000
-tra_chanh, 15000
+xuc xich, 10000
+coca cala, 10000
+tra chanh, 15000
 pepsi, 15000
